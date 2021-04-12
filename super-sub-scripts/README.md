@@ -4,7 +4,7 @@ package_title: "Subscripts and superscripts"
 package_desc: "A collection of subscripts and superscripts with Latex based naming scheme"
 package_version: "0.1.0"
 package_author: "José Ferreira"
-package_repo: "https://github.com/JPUnD/espanso-packages-mega-pack.git"
+package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 ---
 
 # Available matches

@@ -4,7 +4,7 @@ package_title: "Greek Letters based on Latex"
 package_desc: "A package containing most of the Greek alphabet and some common variatons using Latex based naming scheme"
 package_version: "0.1.0"
 package_author: "José Ferreira"
-package_repo: "https://github.com/JPUnD/espanso-packages-mega-pack.git"
+package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 ---
 
 # Available matches

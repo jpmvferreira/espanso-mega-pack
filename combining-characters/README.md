@@ -4,7 +4,7 @@ package_title: "Letter modifiers"
 package_desc: "Modifies characters with a collection of symbols e.g.: à, â, a⃗, a̅, a⃜"
 package_version: "0.1.0"
 package_author: "José Ferreira"
-package_repo: "https://github.com/JPUnD/espanso-packages-mega-pack.git"
+package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 ---
 
 # Available matches

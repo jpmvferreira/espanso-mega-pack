@@ -4,7 +4,7 @@ package_title: "Markdown shortcuts"
 package_desc: "A simple package to make writing Markdown easier"
 package_version: "0.1.0"
 package_author: "José Ferreira"
-package_repo: "https://github.com/JPUnD/espanso-packages-mega-pack.git"
+package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 ---
 
 # Available matches

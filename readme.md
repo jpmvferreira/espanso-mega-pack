@@ -28,7 +28,9 @@ However the more the better, so if you would like to add a variation of a given 
 Also, I might have added some symbol with the wrong name or that you would like to have an alias for (e.g.: :hslash: expands to ℏ but you might also would like to call this :reducedplanck:). You can also open up an issue for that and we can add multiple triggers for the same replace, as long as no conflicts are detected.
 
 ## References
-- [Compart/Unicode](https://www.compart.com/en/unicode): Massive agregator for all Unicode symbols organized into categories that also allows you to search a symbol knowing it's name and vice-versa. This is the best place to look for specific symbols by name or by category giving you a full organized overview of the Unicode standard.
+- **[Compart/Unicode](https://www.compart.com/en/unicode):** Agregator for all Unicode symbols. Features include organized into [categories](https://www.compart.com/en/unicode/category) and searching by name and by symbol.
+
+- **[unicode-table](https://unicode-table.com/en/):** Another agregator for all Unicode symbols. Features include organization by [Sets](https://unicode-table.com/en/sets/) (e.g.: Arrows, Math Symbols, Greek Symbols, etc.) and searching by name and by symbol.
 
 - [Wikibooks - Unicode List of Useful Symbols](https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols): Smaller curated list of the most useful Unicode symbols.
 

@@ -59,6 +59,7 @@ matches:
     replace: |-
         <details><summary>$|$</summary>
         <p>
+        
         </p>
         </details>
     force_clipboard: true

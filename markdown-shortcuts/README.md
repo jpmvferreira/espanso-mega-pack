@@ -26,6 +26,6 @@ package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 | :horizontal: | ___\n                                                  |
 | :task:       | - [ ]                                                  |
 | :donetask:   | - [x]                                                  |
-| :collapse:   | <details><summary>🖰</summary>\n<p>\n\n</p>\n</details> |
+| :collapse:   | \<details>\<summary>🖰\</summary>\n\<p>\n\n\</p>\n\</details> |
 
 **Note: The 🖰 symbol is where your mouse cursor will be after the trigger and \n represents a new line.**

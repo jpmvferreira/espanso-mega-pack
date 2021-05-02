@@ -2,103 +2,103 @@ name: greek-letters
 parent: default
 
 matches:
-  - trigger: ":Alpha:"
+  - triggers: [":Alpha:", ":A:"]
     replace: "Α"
 
-  - trigger: ":alpha:"
+  - triggers: [":alpha:", ":a:"]
     replace: "α"
 
-  - trigger: ":Beta:"
+  - triggers: [":Beta:", ":B:"]
     replace: "Β"
 
-  - trigger: ":beta:"
+  - triggers: [":beta:", ":b:"]
     replace: "β"
 
-  - trigger: ":varbeta:"
+  - triggers: [":varbeta:", ":vb:"]
     replace: "ϐ"
 
-  - trigger: ":Delta:"
+  - triggers: [":Delta:", ":D:"]
     replace: "Δ"
 
-  - trigger: ":delta:"
+  - triggers: [":delta:", ":d:"]
     replace: "δ"
 
-  - trigger: ":Epsilon:"
+  - triggers: [":Epsilon:", ":E:"]
     replace: "Ε"
 
-  - trigger: ":epsilon:"
+  - triggers: [":epsilon:", ":e:"]
     replace: "ϵ"
 
-  - trigger: ":varepsilon"
+  - triggers: [":varepsilon", ":ve:"]
     replace: "ε"
 
-  - trigger: ":Phi:"
+  - triggers: [":Phi:", ":P:"]
     replace: "Φ"
 
-  - trigger: ":phi:"
+  - triggers: [":phi:", ":p:"]
     replace: "𝜙"
 
-  - trigger: ":varphi:"
+  - triggers: [":varphi:", ":vp:"]
     replace: "φ"
 
-  - trigger: ":Gamma:"
+  - triggers: [":Gamma:", ":G:"]
     replace: "Γ"
 
-  - trigger: ":gamma:"
+  - triggers: [":gamma:", ":g:"]
     replace: "γ"
 
-  - trigger: ":Eta:"
+  - triggers: [":Eta:", ":E:"]
     replace: "Η"
 
-  - trigger: ":eta:"
+  - triggers: [":eta:", ":e:"]
     replace: "η"
 
-  - trigger: ":Iota:"
+  - triggers: [":Iota:", ":I:"]
     replace: "Ι"
 
-  - trigger: ":iota:"
+  - triggers: [":iota:", ":i:"]
     replace: "ι"
 
-  - trigger: ":Theta:"
+  - triggers: [":Theta:", ":T:"]
     replace: "Θ"
 
-  - trigger: ":theta:"
+  - triggers: [":theta:", ":t:"]
     replace: "θ"
 
-  - trigger: ":vartheta:"
+  - triggers: [":vartheta:", ":vt:"]
     replace: "ϑ"
 
-  - trigger: ":Kappa:"
+  - triggers: [":Kappa:", ":K:"]
     replace: "Κ"
 
-  - trigger: ":kappa:"
+  - triggers: [":kappa:", ":k:"]
     replace: "κ"
 
-  - trigger: ":varkappa"
+  - triggers: [":varkappa", ":vk:"]
     replace: "ϰ"
 
-  - trigger: ":Lambda:"
+  - triggers: [":Lambda:", ":L:"]
     replace: "Λ"
 
-  - trigger: ":lambda:"
+  - triggers: [":lambda:", ":l:"]
     replace: "λ"
 
-  - trigger: ":Mu:"
+  - triggers: [":Mu:", ":M:"]
     replace: "Μ"
 
-  - trigger: ":mu:"
+  - triggers: [":mu:", ":m:"]
     replace: "μ"
 
-  - trigger: ":Nu:"
+  - triggers: [":Nu:", ":N:"]
     replace: "Ν"
 
-  - trigger: ":nu:"
+  - triggers: [":nu:", ":n:"]
     replace: "ν"
 
-  - trigger: ":Omicron:"
+  - trigger: :Omicron:
     replace: "Ο"
 
-  - trigger: ":omicron:"
+  - trigger: :omicron:
     replace: "ο"
 
   - trigger: ":Pi:"
@@ -107,7 +107,7 @@ matches:
   - trigger: ":pi:"
     replace: "π"
 
-  - trigger: ":varpi:"
+  - triggers: [":varpi:", ":vpi:"]
     replace: "ϖ"
 
   - trigger: ":Chi:"
@@ -116,22 +116,22 @@ matches:
   - trigger: ":chi:"
     replace: "χ"
 
-  - trigger: ":Rho:"
+  - triggers: [":Rho:", ":R:"]
     replace: "Ρ"
 
-  - trigger: ":rho:"
+  - triggers: [":rho:", ":r:"]
     replace: "ρ"
 
-  - trigger: ":varrho"
+  - triggers: [":varrho", ":vr:"]
     replace: "ϱ"
 
-  - trigger: ":Sigma:"
+  - triggers: [":Sigma:", ":S:"]
     replace: "Σ"
 
-  - trigger: ":sigma:"
+  - triggers: [":sigma:", ":s:"]
     replace: "σ"
 
-  - trigger: ":varsigma:"
+  - triggers: [":varsigma:", ":vs:"]
     replace: "ς"
 
   - trigger: ":Tau:"
@@ -140,16 +140,16 @@ matches:
   - trigger: ":tau:"
     replace: "τ"
 
-  - trigger: ":Upsilon:"
+  - triggers: [":Upsilon:", ":U:"]
     replace: "Υ"
 
-  - trigger: ":upsilon:"
+  - triggers: [":upsilon:", ":u:"]
     replace: "υ"
 
-  - trigger: ":Omega:"
+  - triggers: [":Omega:", ":O:"]
     replace: "Ω"
 
-  - trigger: ":omega:"
+  - triggers: [":omega:", ":o:"]
     replace: "ω"
 
   - trigger: ":Xi:"
@@ -164,8 +164,8 @@ matches:
   - trigger: ":psi:"
     replace: "ψ"
 
-  - trigger: ":Zeta:"
+  - triggers: [":Zeta:", ":Z:"]
     replace: "Ζ"
 
-  - trigger: ":zeta:"
+  - triggers: [":zeta:", ":z:"]
     replace: "ζ"

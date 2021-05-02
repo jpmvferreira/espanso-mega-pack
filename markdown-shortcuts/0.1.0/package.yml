@@ -4,8 +4,7 @@ parent: default
 matches:
   - trigger: ":block:"
     replace: |-
-        ```
-        $|$
+        ```$|$
         ```
     force_clipboard: true
 
@@ -55,3 +54,11 @@ matches:
 
   - trigger: ":donetask:"
     replace: "- [x] "
+
+  - trigger: ":collapse:"
+    replace: |-
+        <details><summary>$|$</summary>
+        <p>
+        </p>
+        </details>
+    force_clipboard: true

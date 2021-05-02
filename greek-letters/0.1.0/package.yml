@@ -95,10 +95,10 @@ matches:
   - triggers: [":nu:", ":n:"]
     replace: "ν"
 
-  - trigger: :Omicron:
+  - trigger: ":Omicron:"
     replace: "Ο"
 
-  - trigger: :omicron:
+  - trigger: ":omicron:"
     replace: "ο"
 
   - trigger: ":Pi:"

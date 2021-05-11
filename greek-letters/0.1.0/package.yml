@@ -110,10 +110,10 @@ matches:
   - triggers: [":varpi:", ":vpi:"]
     replace: "ϖ"
 
-  - trigger: ":Chi:"
+  - triggers: [":Chi:", ":C:"]
     replace: "Χ"
 
-  - trigger: ":chi:"
+  - trigger: [":chi:", ":c:"]
     replace: "χ"
 
   - triggers: [":Rho:", ":R:"]
@@ -163,6 +163,12 @@ matches:
 
   - trigger: ":psi:"
     replace: "ψ"
+
+  - triggers: [":varPsi:", ":vPsi:"]
+    replace: "Ⲯ"
+
+  - triggers: [":varpsi:", ":vpsi:"]
+    replace: "ⲯ"
 
   - triggers: [":Zeta:", ":Z:"]
     replace: "Ζ"

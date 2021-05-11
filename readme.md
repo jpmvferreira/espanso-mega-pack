@@ -49,4 +49,4 @@ Also, I might have added some symbol with the wrong name or that you would like 
 ## License
 This package is licensed under the MIT license.
 
-For further information refer to the file `LICENSE` available on this repository.
+For further information refer to the file `./license.md` available on this repository.

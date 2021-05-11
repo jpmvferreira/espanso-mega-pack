@@ -113,7 +113,7 @@ matches:
   - triggers: [":Chi:", ":C:"]
     replace: "Χ"
 
-  - trigger: [":chi:", ":c:"]
+  - triggers: [":chi:", ":c:"]
     replace: "χ"
 
   - triggers: [":Rho:", ":R:"]

@@ -2,13 +2,13 @@ name: markdown-shortcuts
 parent: default
 
 matches:
-  - trigger: ":block:"
+  - triggers: [":block:", ":mb:"]
     replace: |-
         ```$|$
         ```
     force_clipboard: true
 
-  - trigger: ":code:"
+  - triggers: [":code:", ":mc:"]
     replace: |-
         `$|$`
     force_clipboard: true
@@ -43,23 +43,23 @@ matches:
   - trigger: ":url:"
     replace: "[$|$]()"
 
-  - trigger: ":image:"
+  - triggers: [":image:", ":img:"]
     replace: "![]($|$)"
 
-  - trigger: ":horizontal:"
+  - triggers: [":horizontal:", ":mh:"]
     replace: "___\n"
 
-  - trigger: ":task:"
+  - triggers: [":task:", ":mt:"]
     replace: "- [ ] "
 
-  - trigger: ":donetask:"
+  - triggers: [":taskdone:", ":mtd:"]
     replace: "- [x] "
 
-  - trigger: ":collapse:"
+  - triggers: [":collapse:", ":mcol:"]
     replace: |-
         <details><summary>$|$</summary>
         <p>
-        
+
         </p>
         </details>
     force_clipboard: true

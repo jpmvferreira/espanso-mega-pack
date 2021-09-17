@@ -23,7 +23,7 @@ matches:
     replace: "###"
 
   - trigger: ":h4:"
-    replace: "###"
+    replace: "####"
 
   - trigger: ":h5:"
     replace: "#####"
@@ -47,7 +47,7 @@ matches:
     replace: "![]($|$)"
 
   - triggers: [":horizontal:", ":mh:"]
-    replace: "___\n"
+    replace: "___"
 
   - triggers: [":task:", ":mt:"]
     replace: "- [ ] "
@@ -57,9 +57,9 @@ matches:
 
   - triggers: [":collapse:", ":mcol:"]
     replace: |-
-        <details><summary>$|$</summary>
-        <p>
+        <details>
+        <summary>/summary>
 
-        </p>
+        $|$<
         </details>
     force_clipboard: true

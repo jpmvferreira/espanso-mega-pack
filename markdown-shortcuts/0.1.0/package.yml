@@ -23,7 +23,7 @@ matches:
     replace: "###"
 
   - trigger: ":h4:"
-    replace: "###"
+    replace: "####"
 
   - trigger: ":h5:"
     replace: "#####"

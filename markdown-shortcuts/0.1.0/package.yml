@@ -58,8 +58,8 @@ matches:
   - triggers: [":collapse:", ":mcol:"]
     replace: |-
         <details>
-        <summary>/summary>
+        <summary></summary>
 
-        $|$<
+        $|$
         </details>
     force_clipboard: true

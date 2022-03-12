@@ -28,9 +28,14 @@ However the more the better, so if you would like to add a variation of a given 
 Also, I might have added some symbol with the wrong name or that you would like to have an alias for (e.g.: :hslash: expands to ℏ but you might also would like to call this :reducedplanck:). You can also open up an issue for that and we can add multiple triggers for the same replace, as long as no conflicts are detected.
 
 ## References
-- **[Compart/Unicode](https://www.compart.com/en/unicode):** Agregator for all Unicode symbols. Features include organized into [categories](https://www.compart.com/en/unicode/category) and searching by name and by symbol.
+The main references used to develop these packages are:
+- **[Compart.com/Unicode](https://www.compart.com/en/unicode):** Agregator for all Unicode symbols. Features include organized into [categories](https://www.compart.com/en/unicode/category) and searching by name and by symbol.
 
-- **[unicode-table](https://unicode-table.com/en/):** Another agregator for all Unicode symbols. Features include organization by [Sets](https://unicode-table.com/en/sets/) (e.g.: Arrows, Math Symbols, Greek Symbols, etc.) and searching by name and by symbol.
+- **[unicode-table.com](https://unicode-table.com/en/):** Another agregator for all Unicode symbols. Features include organization by [Sets](https://unicode-table.com/en/sets/) (e.g.: Arrows, Math Symbols, Greek Symbols, etc.) and searching by name and by symbol.
+
+- **[Julia Manual - Unicode Input](https://docs.julialang.org/en/v1/manual/unicode-input/#Unicode-Input):** Lists Unicode characters that can be entered via tab completion of LaTeX-like abbreviations in the Julia REPL.
+
+Other references which I have came about while searching around that might be useful:
 
 - [Wikibooks - Unicode List of Useful Symbols](https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols): Smaller curated list of the most useful Unicode symbols.
 

@@ -1,6 +1,3 @@
-name: greek-letters
-parent: default
-
 matches:
   - triggers: [":Alpha:", ":A:"]
     replace: "Α"

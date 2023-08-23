@@ -1,12 +1,3 @@
----
-package_name: "math-symbols"
-package_title: "Math symbols based on Latex"
-package_desc: "Displays math symbols using Latex based naming scheme"
-package_version: "0.1.0"
-package_author: "José Ferreira"
-package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
----
-
 # Available matches
 | Trigger      | Replace   |
 |--------------|-----------|
@@ -55,3 +46,5 @@ package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 | :propto:     | ∝         |
 | :neg:        | ¬         |
 | :times:      | ×         |
+| :dagger:     | †         |
+| :ddagger:    | ‡         |

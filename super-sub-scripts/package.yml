@@ -1,6 +1,3 @@
-name: super-sub-scripts
-parent: default
-
 matches:
   # Math superscripts
   - trigger: ":uint:"
@@ -289,7 +286,7 @@ matches:
   - trigger: ":uV:"
     replace: "ⱽ"
 
-  - trigger: ":uW:"
+  - trigger: ":^W:"
     replace: "ᵂ"
 
   # Greek superscripts
@@ -319,6 +316,9 @@ matches:
 
   - trigger: ":uchi:"
     replace: "ᵡ"
+
+  - trigger: ":uLambda"
+    replace: "ᶺ"
 
   # Greek subscripts
   - trigger: ":_beta:"

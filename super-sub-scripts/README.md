@@ -1,12 +1,3 @@
----
-package_name: "super-sub-scripts"
-package_title: "Subscripts and superscripts"
-package_desc: "A collection of subscripts and superscripts with Latex based naming scheme"
-package_version: "0.1.0"
-package_author: "José Ferreira"
-package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
----
-
 # Available matches
 | Trigger    | Replace   |
 |------------|-----------|
@@ -114,6 +105,7 @@ package_repo: "https://github.com/jpmvferreira/espanso-mega-pack.git"
 | :uiota:    | ᶥ         |
 | :uphi:     | ᶲ         |
 | :uchi:     | ᵡ         |
+| :Lambda:   | ᶺ         |
 | :_beta:    | ᵦ         |
 | :_gamma:   | ᵧ         |
 | :_chi:     | ᵪ         |

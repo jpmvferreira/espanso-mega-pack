@@ -1,6 +1,3 @@
-name: math-symbols
-parent: default
-
 matches:
   - trigger: ":ket:"
     replace: "⟩"
@@ -136,3 +133,9 @@ matches:
 
   - trigger: ":times:"
     replace: "×"
+
+  - trigger: ":dagger:"
+    replace: "†"
+
+  - trigger: ":ddagger:"
+    replace: "‡"

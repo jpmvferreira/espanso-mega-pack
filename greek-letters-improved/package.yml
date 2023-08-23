@@ -161,11 +161,11 @@ matches:
   - trigger: ":Psi:"
     replace: "Ψ"
 
-  - trigger: ":psi:"
-    replace: "ψ"
-
   - triggers: [":varPsi:", ":vPsi:"]
     replace: "Ⲯ"
+
+  - trigger: ":psi:"
+    replace: "ψ"
 
   - triggers: [":varpsi:", ":vpsi:"]
     replace: "ⲯ"

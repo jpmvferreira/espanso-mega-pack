@@ -14,21 +14,19 @@ In this repository you will find the following packages:
 Inside the folder for each package you will see a `README.md` file. This file will include all of the provided triggers provided by that package.
 
 ## Installation
-There are two ways to install any of these packages, directly from this Git repository or from the [Espanso Hub](https://hub.espanso.org/).
-
-The difference between these two methods of installation is that when installing via this Git repository you will get the latest updates as soon as I publish them, whereas via the Espanso Hub you have to wait for its approval.
+There are two ways to install any of these packages, directly from this Git repository or from the [Espanso Hub](https://hub.espanso.org/). The difference between them is that by installing a package via this Git repository you will get the latest updates as soon as I publish them, whereas via the Espanso Hub you have to wait for the package to be approved and will be provided a version number.
 
 To install any of the packages directly from this repository open up a terminal and write
 ```
 espanso install <package name> https://github.com/jpmvferreira/espanso-packages-mega-pack.git --external
 ```
 
-Whereas if you want to install any of the packages via the Espanso Hub open up a terminal and write
+To install it via the Espanso Hub open up a terminal and write
 ```
 espanso install <package name>
 ```
 
-Where `<package name>` should be replaced by any of the previously mentioned packages based on their folder name.
+Where `<package name>` should be replaced by any of the previously mentioned packages.
 
 ## Contributing
 There are still **a lot** of triggers that are missing here, when compared to all possible unicode symbols typically used in math/physics. If you find any trigger that you believe should be present in one of these packages, do not hesistate in opening up a pull request or an issue! The same applies if you happen to have a suggestion, improvement or discussion of any type.

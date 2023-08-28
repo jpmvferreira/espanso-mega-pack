@@ -1,5 +1,5 @@
 ## About
-This Git repository includes a collection of curated home built packages for the cross-platform text expander [Espanso](https://espanso.org/).
+A collection of curated home built packages for the cross-platform text expander [Espanso](https://espanso.org/).
 
 ## Packages Included
 In this repository you will find the following packages:

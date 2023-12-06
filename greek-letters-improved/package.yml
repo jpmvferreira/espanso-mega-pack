@@ -44,10 +44,10 @@ matches:
   - triggers: [":gamma:", ":g:"]
     replace: "γ"
 
-  - triggers: [":Eta:", ":E:"]
+  - trigger: ":Eta:"
     replace: "Η"
 
-  - triggers: [":eta:", ":e:"]
+  - trigger: ":eta:"
     replace: "η"
 
   - triggers: [":Iota:", ":I:"]

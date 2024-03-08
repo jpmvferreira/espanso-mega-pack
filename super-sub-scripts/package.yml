@@ -3,6 +3,9 @@ matches:
   - trigger: ":uint:"
     replace: "ᶴ"
 
+  - trigger: ":u-:"
+    replace: "⁻"
+
   - trigger: ":u1/4:"
     replace: "¼"
 

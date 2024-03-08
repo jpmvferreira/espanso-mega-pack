@@ -89,7 +89,7 @@ matches:
   - trigger: ":nabla:"
     replace: "∇"
 
-  - trigger: ":partial:"
+  - triggers: [":partial:", ":pd:"]
     replace: "𝜕"
 
   - trigger: ":forall:"

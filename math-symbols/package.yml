@@ -139,3 +139,6 @@ matches:
 
   - trigger: ":ddagger:"
     replace: "‡"
+
+  - trigger: ":circ:"
+    replace: "∘"

@@ -48,3 +48,4 @@
 | :times:      | ×         |
 | :dagger:     | †         |
 | :ddagger:    | ‡         |
+| :circ:       | ∘         |

@@ -35,7 +35,7 @@ There are still **a lot** of triggers that are missing here, when compared to al
 The main references I used to write these packages were:
 - **[Compart.com/Unicode](https://www.compart.com/en/unicode):** An agregator of Unicode symbols that features organization into [categories](https://www.compart.com/en/unicode/category) (e.g.: modifier symbols, math symbols, etc.) and searching by name and by symbol.
 
-- **[symbl.cc](https://unicode-table.com/en/):** Another agregator for Unicode symbols that features organization in [collections](https://unicode-table.com/en/sets/) (e.g.: arrows, math symbols, greek symbols, etc.) and searching by name and by symbol.
+- **[symbl.cc](https://symbl.cc/en/):** Another agregator for Unicode symbols that features organization in [collections](https://symbl.cc/en/collections/) (e.g.: arrows, math symbols, greek symbols, etc.) and searching by name and by symbol.
 
 - **[Julia Manual - Unicode Input](https://docs.julialang.org/en/v1/manual/unicode-input/#Unicode-Input):** Lists Unicode characters that can be entered via tab completion of LaTeX-like abbreviations in the Julia REPL.
 

@@ -81,3 +81,140 @@ matches:
     label: "Markdown - Comment"
     replace: "<!--- $|$ -->"
     force_clipboard: true
+
+  - trigger: ":mdt2:"
+    label: "Markdown - Two Column Table"
+    replace: |-
+        |  $|$  |    |
+        |:--:|:--:|
+        |    |    |
+
+    force_clipboard: true
+
+
+  - trigger: ":mdt3:"
+    label: "Markdown - Three Column Table"
+    replace: |-
+        |  $|$  |    |    |
+        |:--:|:--:|:--:|
+        |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt4:"
+    label: "Markdown - Four Column Table"
+    replace: |-
+        |  $|$  |    |    |    |
+        |:--:|:--:|:--:|:--:|
+        |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt5:"
+    label: "Markdown - Five Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt6:"
+    label: "Markdown - Six Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt7:"
+    label: "Markdown - Seven Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt8:"
+    label: "Markdown - Eight Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt9:"
+    label: "Markdown - Nine Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdt10:"
+    label: "Markdown - Ten Column Table"
+    replace: |-
+        |  $|$  |    |    |    |    |    |    |    |    |    |
+        |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+        |    |    |    |    |    |    |    |    |    |    |
+    force_clipboard: true
+
+
+  - trigger: ":mdr2:"
+    label: "Markdown - Two Column Row"
+    replace: "|  $|$  |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr3:"
+    label: "Markdown - Three Column Row"
+    replace: "|  $|$  |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr4:"
+    label: "Markdown - Four Column Row"
+    replace: "|  $|$  |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr5:"
+    label: "Markdown - Five Column Row"
+    replace: "|  $|$  |    |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr6:"
+    label: "Markdown - Six Column Row"
+    replace: "|  $|$  |    |    |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr7:"
+    label: "Markdown - Seven Column Row"
+    replace: "|  $|$  |    |    |    |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr8:"
+    label: "Markdown - Eight Column Row"
+    replace: "|  $|$  |    |    |    |    |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr9:"
+    label: "Markdown - Nine Column Row"
+    replace: "|  $|$  |    |    |    |    |    |    |    |    |"
+    force_clipboard: true
+
+
+  - trigger: ":mdr10:"
+    label: "Markdown - Ten Column Row"
+    replace: "|  $|$  |    |    |    |    |    |    |    |    |    |"
+    force_clipboard: true
+
+

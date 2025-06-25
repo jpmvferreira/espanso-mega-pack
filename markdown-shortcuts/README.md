@@ -16,7 +16,7 @@
 | :image:      | !\[](🖰)                                                         |
 | :horizontal: | ___<br>                                                         |
 | :task:       | - [ ]                                                           |
-| :donetask:   | - [x]                                                           |
+| :taskdone:   | - [x]                                                           |
 | :collapse:   | \<details><br>\<summary>\</summary><br>🖱<br>\</details>         |
 | :comment:    | \<\!--- 🖱 -->                                                   |
 | :mdt2:       | \|⠀🖱⠀\|⠀⠀⠀\|<br>\|:--:\|:--:\|<br>\|⠀⠀⠀\|⠀⠀⠀\|                  |

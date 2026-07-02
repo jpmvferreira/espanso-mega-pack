@@ -142,3 +142,6 @@ matches:
 
   - trigger: ":circ:"
     replace: "∘"
+
+  - trigger: ":div:"
+    replace: "÷"

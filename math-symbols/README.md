@@ -49,3 +49,4 @@
 | :dagger:     | †         |
 | :ddagger:    | ‡         |
 | :circ:       | ∘         |
+| :div:        | ÷         |
